@@ -40,22 +40,22 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dart" value="11" />
-          <entry key="md" value="96" />
-          <entry key="yaml" value="44" />
+          <entry key="md" value="110" />
+          <entry key="yaml" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Dart" value="11" />
-          <entry key="Markdown" value="96" />
-          <entry key="YAML" value="44" />
+          <entry key="Markdown" value="110" />
+          <entry key="YAML" value="45" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/waveprogressbar_flutter.dart">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -102,11 +102,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+            <state relative-caret-position="305">
+              <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
             </state>
           </provider>
         </entry>
@@ -115,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -139,10 +139,10 @@
         <option value="$PROJECT_DIR$/test/waveprogressbar_test.dart" />
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/LICENSE" />
-        <option value="$PROJECT_DIR$/pubspec.yaml" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/example/example.dart" />
         <option value="$PROJECT_DIR$/lib/waveprogressbar_flutter.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -281,20 +281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/waveprogressbar_flutter.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -302,6 +288,20 @@
           <folding>
             <element signature="e#26#65#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
         </state>
       </provider>
     </entry>

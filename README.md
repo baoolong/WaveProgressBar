@@ -114,6 +114,8 @@ Add it to your dart file:
 
 ## Properties
 
+| a                  | b                | c                                 |
+| ----               | ----             | ----                              |
 | size               | Size             |   控件大小 The size of widget    	|
 | percentage         | double      		|   进度百分比 Percentage of progress	|
 | waveHeight         | double      		|   浪高 The wave height   			|
