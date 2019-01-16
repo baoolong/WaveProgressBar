@@ -2,7 +2,7 @@ name: waveprogressbar_flutter
 description: wave progress bar,a good widget ,welcome to ues;
 version: 0.1.1
 author: baoolong <baoolong1987@gmail.com>
-homepage:
+homepage: https://github.com/baoolong/WaveProgressBar
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"

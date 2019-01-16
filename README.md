@@ -114,14 +114,14 @@ Add it to your dart file:
 
 ## Properties
 
-	| size               | Size      		|   控件大小 The size of widget    	|
-	| percentage         | double      		|   进度百分比 Percentage of progress	|
-	| waveHeight         | double      		|   浪高 The wave height   			|
-	| textStyle          | TextStyle      	|   文字样式 text style    			|
-	| waveDistance       | double      		|   1/4波距 ；1/4 Wave distance    	|
-	| flowSpeed          | double      		|   波浪滚动的速度 The speed of wave 	|
-	| waterColor         | Color      		|   水的颜色 water color    			|
-	| strokeCircleColor  | Color      		|   圆环的颜色 Stroke Circle Color   	|
-	| circleStrokeWidth  | double      		|   圆环的宽度 Circle Stroke Width   	|
-	| heightController   | WaterController  |   进度控制器 progress Controller   	|
+| size               | Size             |   控件大小 The size of widget    	|
+| percentage         | double      		|   进度百分比 Percentage of progress	|
+| waveHeight         | double      		|   浪高 The wave height   			|
+| textStyle          | TextStyle      	|   文字样式 text style    			|
+| waveDistance       | double      		|   1/4波距 ；1/4 Wave distance    	|
+| flowSpeed          | double      		|   波浪滚动的速度 The speed of wave 	|
+| waterColor         | Color      		|   水的颜色 water color    			|
+| strokeCircleColor  | Color      		|   圆环的颜色 Stroke Circle Color   	|
+| circleStrokeWidth  | double      		|   圆环的宽度 Circle Stroke Width   	|
+| heightController   | WaterController  |   进度控制器 progress Controller   	|
 
